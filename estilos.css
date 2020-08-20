@@ -2,3 +2,6 @@ body
 {
     font-size:26px;
 }
+.footer{
+    border: solid 1px blue;
+}
