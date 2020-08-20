@@ -2,6 +2,12 @@ body
 {
     font-size:26px;
 }
+
 .cabecera{
     border: solid 1px red;
+}
+
+.footer{
+    border: solid 1px blue;
+
 }
